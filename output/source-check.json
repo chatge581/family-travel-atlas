@@ -1,0 +1,126 @@
+{
+  "checked_at": "2026-10-26T09:37:45.265942+00:00",
+  "sources": [
+    {
+      "url": "https://botanical-garden.nagai-park.jp/guide/access/",
+      "hash": "9f63ab03aa08bb08e50d830b490c49ce69b9099b596b6efb1c304fdc8db60d84",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://botanical-garden.nagai-park.jp/guide/information/",
+      "hash": "a3e9134bab88ec799184e6997b4f731897b13beb3a39dda4adaaf400aa6f0799",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://kids.rurubu.jp/article/114917/",
+      "hash": "8d362072174ea07b2becd751c8432a9376ceec3cd077f90d92e56e089f895bb8",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://ogimachipark.com/3041",
+      "hash": "5595d275e90d3bd008a8d1454fdbced2640ed976319b40ab7d0072beb3a51b2d",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://ogimachipark.com/access",
+      "hash": "55874812e1b599c351fc46e9284a7eeeb4db57ca7c63fd0cf91ed2509d2ede41",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://ogimachipark.com/faq",
+      "hash": "38569fce46642490db8ce00d2ea921e64cb5753f31bf934e630b23f1e859ffb3",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://omnh.jp/archives/14305",
+      "hash": "213522a741ecec65b1ed033a2dc44329967114ee507def730a903a321fdbf810",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://omnh.jp/guide_top/guide",
+      "hash": "1c03077be44ffd54231a2903b7a3f4dc91bf26fdc55000bfe180254fd999accd",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://www.bigbang-sakai.jp/",
+      "hash": "506638220d472031028ead7dad7cb0918b03100a97a3498c3e551b014b72386c",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://www.bigbang-sakai.jp/guide/",
+      "hash": "9a3b7b91491830493b2f945742d85109bbe74bc56043e3a7b8efd329400bc4d6",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://www.bigbang-sakai.jp/news/5514/",
+      "hash": "b0df6723723a00f3748562d043acd4a43feaa8bf9b1b25de7393dcc4945c9bf5",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://www.cupnoodles-museum.jp/ja/osaka_ikeda/guide/",
+      "hash": "22ae22d77ac1b223c3fcc11e8309a7da72f8173d00d2e22beed86d8d6d7139b5",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://www.cupnoodles-museum.jp/ja/osaka_ikeda/guide/access/",
+      "hash": "9a99f6c4e801a1c098cde8305c154fb3e110a107fc0f2ad42a8fea0f3456f598",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://www.cupnoodles-museum.jp/ja/osaka_ikeda/guide/admission/",
+      "hash": "da2942c04bde1eb20ad7bf53076cfa06ca25b310d3670092cbcd7748cc26601a",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://www.duskin-museum.jp/",
+      "hash": "88e712391b93e4442f1d7390395dd0919c22086a901667ef4c312d5f699b7306",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://www.duskin-museum.jp/faq/",
+      "hash": "6ec33b235bb238d2e23e496b7bd0ca56b090cdaa4455198a485b0f35ec736eb6",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://www.itami-skypark.com/",
+      "hash": "800f1e3de904ec58a032a91baadb9ce38eb4b4231dc424969271d5edfa9ee138",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://www.itami-skypark.com/information/",
+      "hash": "c8306fa5a8a3c14dd57fff62269fafee5929b2bf09b9f276cd53ffbd7a215c06",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://www.kidsplaza.or.jp/info/",
+      "hash": "90e871efd6f473822c338664e2f50be0660d6d48ae8310038b8de0b69f73b8ec",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://www.osaka-ssm.jp/4f",
+      "hash": "f4710c1c603305c7677ad67881c519586669767faa3e584614b286ab2dbb668e",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://www.osaka-ssm.jp/access",
+      "hash": "46b2dc2235398755d8cc5920922f2bf8f26947b0070a5d01c530ff69d8e7acf4",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://www.osaka-ssm.jp/information",
+      "hash": "e1ad0a142a30c129d028b41b0cf7927e9de04617a3b839cf2f51c142b7693441",
+      "status": "unchanged"
+    },
+    {
+      "url": "https://www.tennojizoo.jp/",
+      "error": "HTTP Error 503: Service Unavailable",
+      "status": "error"
+    },
+    {
+      "url": "https://www.tennojizoo.jp/information/",
+      "error": "HTTP Error 503: Service Unavailable",
+      "status": "error"
+    }
+  ],
+  "note": "Page changes are signals, not automatically verified new facts; changed or failed sources suppress their cards. A hash match does not prove all notices were discovered."
+}

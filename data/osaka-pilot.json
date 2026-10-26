@@ -1,0 +1,365 @@
+{
+  "scope": "大阪及周边｜3–6岁亲子小样本",
+  "places": [
+    {
+      "id": "sewer",
+      "name": "大阪市下水道科学馆",
+      "local_name": "ミザック下水道科学館OSAKA",
+      "area": "大阪市此花区",
+      "summary": "通过脚踏游戏、拼图和影像了解城市排水。",
+      "family_admission_jpy": 0,
+      "station_walk_minutes": 7,
+      "weather": "indoor",
+      "experiences": [
+        "脚踏防洪游戏",
+        "管道检查、微生物射击和过滤拼图"
+      ],
+      "address": "大阪市此花区高見1丁目2番53号",
+      "hours": "9:30–17:00，16:30停止入馆；周三休馆，节假日顺延；年末年初休馆",
+      "limits": [
+        "馆内禁食，一楼可补水；无行李寄存",
+        "多语界面及具体装置年龄要求未确认"
+      ],
+      "sources": [
+        "https://www.osaka-ssm.jp/information",
+        "https://www.osaka-ssm.jp/4f",
+        "https://www.osaka-ssm.jp/access"
+      ],
+      "checked_on": "2026-10-26",
+      "status": "candidate",
+      "duration": null,
+      "events": [
+        {
+          "title": "微生物手工贴纸",
+          "start": "2026-10-31",
+          "end": "2026-11-01",
+          "details": "10:30、14:00，每场先到先得100人；学龄前儿童须家长陪同；费用、外国游客资格和语言要求未确认，不作确定推荐。",
+          "source": "https://www.osaka-ssm.jp/event/14984"
+        }
+      ],
+      "image": {
+        "status": "source_only",
+        "page": "https://www.osaka-ssm.jp/information",
+        "url": null,
+        "license": null
+      }
+    },
+    {
+      "id": "ogimachi",
+      "name": "扇町公园",
+      "local_name": "扇町公園",
+      "area": "大阪市北区",
+      "summary": "靠近扇町站的户外公园，有滑梯和广场。",
+      "family_admission_jpy": null,
+      "station_walk_minutes": 1,
+      "weather": null,
+      "experiences": [
+        "广场、散步",
+        "更新游具面向6–12岁"
+      ],
+      "address": "大阪市北区扇町1丁目1",
+      "hours": "公园24小时可入园，无固定休园日；设施另查",
+      "limits": [
+        "更新游具不作为3–5岁推荐",
+        "普通公园免费信息有旅游媒体支持，本轮官方页面未直接给出票价，不按0元评分",
+        "泳池和特别活动单独收费或另有规则"
+      ],
+      "sources": [
+        "https://ogimachipark.com/3041",
+        "https://ogimachipark.com/faq",
+        "https://ogimachipark.com/access",
+        "https://kids.rurubu.jp/article/114917/"
+      ],
+      "checked_on": "2026-10-26",
+      "status": "candidate",
+      "duration": null,
+      "events": [],
+      "image": {
+        "status": "source_only",
+        "page": "https://ogimachipark.com/3041",
+        "url": null,
+        "license": null
+      }
+    },
+    {
+      "id": "bigbang",
+      "name": "堺市立 Big Bang",
+      "local_name": "堺市立ビッグバン",
+      "area": "堺市",
+      "summary": "有大型室内游具、玩具展示和工作坊的儿童馆。",
+      "family_admission_jpy": 2800,
+      "station_walk_minutes": 5,
+      "weather": "indoor",
+      "experiences": [
+        "巨大攀爬设施、玩具展示",
+        "工作坊另查年龄及费用"
+      ],
+      "address": "大阪府堺市南区茶山台1丁9番1号",
+      "hours": "10:00–17:00，16:30停止入馆；周一及维护期等休馆，查日历",
+      "limits": [
+        "两成人各1100日元＋一名3岁以上学龄前儿童600日元",
+        "2027-01-13至02-14四楼全面关闭；02-16至02-28部分关闭，工期可能变动",
+        "游具具体年龄、身高与语言要求未逐项核实"
+      ],
+      "sources": [
+        "https://www.bigbang-sakai.jp/guide/",
+        "https://www.bigbang-sakai.jp/",
+        "https://www.bigbang-sakai.jp/news/5514/"
+      ],
+      "checked_on": "2026-10-26",
+      "status": "candidate",
+      "duration": null,
+      "events": [],
+      "image": {
+        "status": "source_only",
+        "page": "https://www.bigbang-sakai.jp/guide/",
+        "url": null,
+        "license": null
+      }
+    },
+    {
+      "id": "kids",
+      "name": "Kids Plaza 大阪",
+      "local_name": "キッズプラザ大阪",
+      "area": "大阪市北区",
+      "summary": "有儿童体验展区和游玩空间的室内博物馆。",
+      "family_admission_jpy": 3500,
+      "station_walk_minutes": 3,
+      "weather": "indoor",
+      "experiences": [
+        "儿童体验空间；具体展区待下一轮逐项核实",
+        "有饮食空间、授乳室及婴儿护理设施"
+      ],
+      "address": "大阪府大阪市北区扇町2-1-7",
+      "hours": "9:30–17:00，16:15停止售票入馆；第2、3周一等休馆，8月规则不同",
+      "limits": [
+        "两成人各1500日元＋3–5岁儿童500日元；6岁按毕业年份规则区分",
+        "指定平日14:00后两大一幼2300日元；销售日期有限",
+        "优惠时段开始前，管状滑梯的平日使用时间已结束",
+        "官网有海外游客购票说明；不据此保证每个活动有多语支持"
+      ],
+      "sources": [
+        "https://www.kidsplaza.or.jp/info/"
+      ],
+      "checked_on": "2026-10-26",
+      "status": "candidate",
+      "duration": null,
+      "events": [],
+      "image": {
+        "status": "source_only",
+        "page": "https://www.kidsplaza.or.jp/info/",
+        "url": null,
+        "license": null
+      }
+    },
+    {
+      "id": "natural",
+      "name": "大阪市立自然史博物馆",
+      "local_name": "大阪市立自然史博物館",
+      "area": "大阪市东住吉区",
+      "summary": "以自然历史、标本和常设展示为主的博物馆。",
+      "family_admission_jpy": 600,
+      "station_walk_minutes": null,
+      "weather": "indoor",
+      "experiences": [
+        "常设展；具体展品另核",
+        "一般入馆票可进入植物园，有休馆和免费开放日例外"
+      ],
+      "address": "大阪市東住吉区長居公園1-23",
+      "hours": "3–10月9:30–17:00；11–2月至16:30；均提前30分钟停止入馆。周一及年末年初等休馆",
+      "limits": [
+        "成人300日元，中学生及以下免费；特别展另计",
+        "官网给长居地铁站约800米，不擅自换算步行分钟",
+        "特别展“大绝灭展”已于2026-10-12结束，不列为当前活动"
+      ],
+      "sources": [
+        "https://omnh.jp/guide_top/guide",
+        "https://omnh.jp/archives/14305"
+      ],
+      "checked_on": "2026-10-26",
+      "status": "candidate",
+      "duration": null,
+      "events": [],
+      "image": {
+        "status": "source_only",
+        "page": "https://omnh.jp/guide_top/guide",
+        "url": null,
+        "license": null
+      }
+    },
+    {
+      "id": "garden",
+      "name": "长居植物园",
+      "local_name": "大阪市立長居植物園",
+      "area": "大阪市东住吉区",
+      "summary": "看植物、花卉和园区景观的户外植物园。",
+      "family_admission_jpy": 600,
+      "station_walk_minutes": null,
+      "weather": null,
+      "experiences": [
+        "植物与园区散步",
+        "花期信息需随出行日期复查"
+      ],
+      "address": "大阪市東住吉区長居公園1-23",
+      "hours": "3–10月9:30–17:00；11–2月至16:30；均提前30分钟停止入园。周一及年末年初等休园",
+      "limits": [
+        "成人300日元，中学生及以下免费；夜间或特别开放可能另计",
+        "长居地铁站约800米，不换算步行分钟",
+        "日间票与自然史博物馆有互通条件，不能默认两个地点需要买两份门票"
+      ],
+      "sources": [
+        "https://botanical-garden.nagai-park.jp/guide/information/",
+        "https://botanical-garden.nagai-park.jp/guide/access/",
+        "https://omnh.jp/guide_top/guide"
+      ],
+      "checked_on": "2026-10-26",
+      "status": "candidate",
+      "duration": null,
+      "events": [],
+      "image": {
+        "status": "source_only",
+        "page": "https://botanical-garden.nagai-park.jp/guide/information/",
+        "url": null,
+        "license": null
+      }
+    },
+    {
+      "id": "noodle",
+      "name": "杯面博物馆 大阪池田",
+      "local_name": "カップヌードルミュージアム 大阪池田",
+      "area": "池田市",
+      "summary": "看方便面的发明历史，也可付费制作自己的杯面。",
+      "family_admission_jpy": 0,
+      "station_walk_minutes": 5,
+      "weather": "indoor",
+      "experiences": [
+        "方便面历史展示",
+        "我的合味道工厂：每份500日元，参与条件另查"
+      ],
+      "address": "大阪府池田市満寿美町8-25",
+      "hours": "9:30–16:30，15:30停止入馆；周二休馆，遇节假日顺延；年末年初休馆",
+      "limits": [
+        "免费指入馆，制作体验另收费",
+        "鸡汤拉面制作价目按小学生和中学生以上列出；不能推定幼儿可参加",
+        "可能因拥挤而等待入馆；本轮未核实体验预约与语言要求"
+      ],
+      "sources": [
+        "https://www.cupnoodles-museum.jp/ja/osaka_ikeda/guide/admission/",
+        "https://www.cupnoodles-museum.jp/ja/osaka_ikeda/guide/access/",
+        "https://www.cupnoodles-museum.jp/ja/osaka_ikeda/guide/"
+      ],
+      "checked_on": "2026-10-26",
+      "status": "candidate",
+      "duration": null,
+      "events": [],
+      "image": {
+        "status": "source_only",
+        "page": "https://www.cupnoodles-museum.jp/ja/osaka_ikeda/guide/admission/",
+        "url": null,
+        "license": null
+      }
+    },
+    {
+      "id": "duskin",
+      "name": "Duskin 博物馆",
+      "local_name": "ダスキンミュージアム",
+      "area": "吹田市",
+      "summary": "看清洁工具和甜甜圈历史，有付费甜甜圈装饰体验。",
+      "family_admission_jpy": 0,
+      "station_walk_minutes": 10,
+      "weather": "indoor",
+      "experiences": [
+        "清洁主题互动小游戏",
+        "甜甜圈球装饰：每套300日元，FAQ写无特别年龄限制"
+      ],
+      "address": "大阪府吹田市芳野町5-32",
+      "hours": "10:00–16:00，15:30停止入馆；周一及盂兰盆节、年末年初休馆",
+      "limits": [
+        "完整甜甜圈制作仅小学生以上参加，提前抽签报名，不能当天报名",
+        "免费入馆；完整制作每组两人2400日元，不计入免费卖点",
+        "馆内不能用餐；有婴儿护理室；多语体验未确认"
+      ],
+      "sources": [
+        "https://www.duskin-museum.jp/",
+        "https://www.duskin-museum.jp/faq/"
+      ],
+      "checked_on": "2026-10-26",
+      "status": "candidate",
+      "duration": "约1小时，官方FAQ建议；不含约90分钟的完整制作体验",
+      "events": [],
+      "image": {
+        "status": "source_only",
+        "page": "https://www.duskin-museum.jp/",
+        "url": null,
+        "license": null
+      }
+    },
+    {
+      "id": "itami",
+      "name": "伊丹天空公园",
+      "local_name": "伊丹スカイパーク",
+      "area": "兵库县伊丹市｜大阪周边",
+      "summary": "在机场跑道旁看飞机起降，也有游具区。",
+      "family_admission_jpy": 0,
+      "station_walk_minutes": null,
+      "weather": null,
+      "experiences": [
+        "观看飞机起降",
+        "滑梯、立体迷宫；官网介绍另有1–3岁专用区"
+      ],
+      "address": "兵庫県伊丹市森本7丁目1－1",
+      "hours": "4–10月周末节假日7:00–21:00；其他日期9:00–21:00",
+      "limits": [
+        "不是大阪市内地点；完整交通成本待核实，不打车站步行分",
+        "公园入园免费，停车及餐饮另计",
+        "禁止球类、风筝及帐篷等；垃圾需带走",
+        "官网有中文宣传册入口，不代表现场中文服务；幼儿设施细则待核"
+      ],
+      "sources": [
+        "https://www.itami-skypark.com/",
+        "https://www.itami-skypark.com/information/"
+      ],
+      "checked_on": "2026-10-26",
+      "status": "candidate",
+      "duration": null,
+      "events": [],
+      "image": {
+        "status": "source_only",
+        "page": "https://www.itami-skypark.com/",
+        "url": null,
+        "license": null
+      }
+    },
+    {
+      "id": "zoo",
+      "name": "天王寺动物园",
+      "local_name": "天王寺動物園",
+      "area": "大阪市",
+      "summary": "动物主题候选，本轮资料读取失败。",
+      "family_admission_jpy": null,
+      "station_walk_minutes": null,
+      "weather": null,
+      "experiences": [],
+      "address": null,
+      "hours": null,
+      "limits": [
+        "官网及利用说明本次均返回HTTP 503",
+        "未取得当前票价、开放时间和设施条件，不进入可用卡片"
+      ],
+      "sources": [
+        "https://www.tennojizoo.jp/information/",
+        "https://www.tennojizoo.jp/"
+      ],
+      "checked_on": "2026-10-26",
+      "status": "blocked",
+      "duration": null,
+      "events": [],
+      "image": {
+        "status": "source_only",
+        "page": "https://www.tennojizoo.jp/information/",
+        "url": null,
+        "license": null
+      }
+    }
+  ]
+}
