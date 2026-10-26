@@ -14,3 +14,5 @@
 这只是成果查看方式，不代表自动研究、定时月更、数据库或销售功能已经完成。公开链接可被转发；`noindex` 仅请求搜索引擎不要索引，不是访问控制。
 
 更新数据并运行生成命令后，提交和推送至发布分支，GitHub Pages 更新同一个地址。当前未配置定时任务，也不自动推送。
+
+本次发布状态：工程已推送至main。创建Pages站点的API返回 `Resource not accessible by integration` (403)，未启用成功。仓库管理员可在Settings → Pages选择Deploy from a branch、main、/docs并保存。GitHub公布站点地址后需再验证公网访问。GitHub中直接打开HTML文件只会显示源码，不是网站。
